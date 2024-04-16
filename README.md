@@ -1,7 +1,9 @@
 # Hello-World
 This repository is for practice and learning
 
+<br>
 Main = the main branch (think of as Tree/Trunk) is what everoyone works off of.
+</br>
 FEATURE BRANCH/"BRANCH" = are little branches off of the main which we edit off of.
 COMMITS = saved changes to the feature branch. once you are finished with youre coding and have made all your changes & edits you will want to open a PULL REQUEST.
 PULL REQUEST = PULL REQUESTS are proposals from your feature branch to the Main/Tree Trunk.
